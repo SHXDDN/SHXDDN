@@ -1,4 +1,6 @@
 ### Hi there 👋
+int a = b;
+int b =1;
 
 <!--
 **SHXDDN/SHXDDN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
